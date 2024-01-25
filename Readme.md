@@ -33,6 +33,9 @@
     
 3) 인간 유전체 파일을 gff3 파일에 맞게 수정하기
 
+   
+111.py
+![image](https://github.com/ehojune/2024Winter_Genomelab_intern/assets/48094348/de9ba637-05ed-4b4c-9406-2a2b85846c48)
 
 
  
