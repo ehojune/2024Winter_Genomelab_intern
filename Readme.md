@@ -37,6 +37,9 @@
 111.py
 ![image](https://github.com/ehojune/2024Winter_Genomelab_intern/assets/48094348/de9ba637-05ed-4b4c-9406-2a2b85846c48)
 
+결과
+![image](https://github.com/ehojune/2024Winter_Genomelab_intern/assets/48094348/77617137-1d20-4be2-a549-3d2f6c928bef)
+
 
  
  ## 2. 인간 유전체와 바나나 유전체의 유사도 비교
